@@ -1,4 +1,4 @@
-module github.com/HexaTicker/ht-oauth-go/oauth
+module github.com/hexa-ticker/ht-oauth-go/oauth
 
 go 1.19
 

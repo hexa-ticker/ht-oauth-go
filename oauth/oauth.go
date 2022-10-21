@@ -3,7 +3,7 @@ package oauth
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/HexaTicker/ht-oauth-go/oauth/errors"
+	"github.com/hexa-ticker/ht-oauth-go/oauth/errors"
 	"github.com/mercadolibre/golang-restclient/rest"
 	"net/http"
 	"strconv"
