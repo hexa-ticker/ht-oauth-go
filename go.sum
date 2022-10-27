@@ -1,6 +1,6 @@
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
-github.com/hexa-ticker/ht-utils-go v1.0.1 h1:pCdemlxcRUiCCQYb5nlioxoyRIbMWIa1D9vbrXftRFY=
-github.com/hexa-ticker/ht-utils-go v1.0.1/go.mod h1:PaJrc4ppd8Rj+MUPXeeX9Xmqfp5J0zR7/EqJdxHkiXw=
+github.com/hexa-ticker/ht-utils-go v1.0.2 h1:vAK/14/dwwAg6u3IDV5cImfyym/4FjIQ8pz9ZtpDb/g=
+github.com/hexa-ticker/ht-utils-go v1.0.2/go.mod h1:PaJrc4ppd8Rj+MUPXeeX9Xmqfp5J0zR7/EqJdxHkiXw=
 github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0 h1:EDOjA2IGgjSBlPlnW7CzBUo/o410SMiFh670jP29Kc4=
 github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0/go.mod h1:Z7qYja4aGk/RWl1yJtN1LXRvC7Hsbq8SEbqWWDrMqMs=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
